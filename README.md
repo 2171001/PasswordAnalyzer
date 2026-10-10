@@ -121,10 +121,6 @@ The objective of Password Analyzer is to explore password-strength evaluation, p
 
 The project also demonstrates how multiple analytical techniques can be combined in a command-line cybersecurity utility.
 
-## 📜 License
-
-Choose a license before distributing this project publicly. If you select the MIT License, include the appropriate `LICENSE` file in the repository.
-
 ---
 
 **Password Analyzer** — Analyze smarter. Generate stronger. Practice better password security.
