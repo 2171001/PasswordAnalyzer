@@ -123,4 +123,4 @@ The project also demonstrates how multiple analytical techniques can be combined
 
 ---
 
-**Password Analyzer** — Analyze smarter. Generate stronger. Practice better password security.
+**Password Analyzer** - Analyze smarter. Generate stronger. Practice better password security.
